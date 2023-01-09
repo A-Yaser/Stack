@@ -23,7 +23,7 @@ namespace Stack
         {
             if (isfull())
             {
-                Console.WriteLine(" ERROR!! \n You can not add any element; the stack is full, \n the elemnt did not added to stack");
+                Console.WriteLine(" ERROR!! \nYou can not add any element; the stack is full, \n the elemnt did not added to stack");
             }
             else { 
             top ++;
